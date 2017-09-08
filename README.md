@@ -18,7 +18,7 @@ npm install
 npm start
 ```
 
-At this point, you should be able to open your browser and go to [localhost:3000](http://localhost:3000). You'll notice that the app compiles and also includes code splitting!
+At this point, you should be able to open your browser and go to [localhost:8080](http://localhost:8080). You'll notice that the app compiles and also includes code splitting!
 
 # Deploying
 
