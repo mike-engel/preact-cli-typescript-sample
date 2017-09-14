@@ -1,5 +1,7 @@
 # preact-cli-typescript-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-engel/preact-cli-typescript-sample.svg)](https://greenkeeper.io/)
+
 > An example of how to use typescript with preact-cli and all its goodies
 
 # Why?
